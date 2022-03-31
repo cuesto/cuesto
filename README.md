@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cuesto/cuesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ I'm a FullStack Developer from the Dominican Republic 🇩🇴.
 - 🎤 I usually give talks in the different local development groups
 - 😊 Willing to contribute to opensource development projects
 - 💬 Ask me about: Vue and .Net technologies
-- ⚡️ Fun fact: I started a business once just to test a software
+- ⚡️ Fun fact: I started an Ice cream shop business just to test a software
 - 📫 Reach me: <a href="https://twitter.com/joik_1709">@joik_1709</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuesto&theme=buefy&layout=compact)
