@@ -22,7 +22,7 @@ I'm a FullStack Developer from the Dominican Republic 🇩🇴.
 - 🌍 I'm mostly active within the Startup Community
 - 🎤 I usually give talks in the different local development groups
 - 😊 Willing to contribute to opensource development projects
-- 💬 Ask me about: Vue and .Net technologies
+- 💬 Ask me about: .Net and Vue technologies
 - ⚡️ Fun fact: I started an Ice cream shop business just to test a software
 - 📫 Reach me: <a href="https://twitter.com/joik_1709">@joik_1709</a>
 
